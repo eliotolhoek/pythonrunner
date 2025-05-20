@@ -1,5 +1,7 @@
 # pythonrunner
 
+A simple Dockerfile to be able to run Python scripts without having Python installed directly. Usable for quick prototyping and running different versions of Python for different projects.
+
 Build the Docker image using:
 ```
 docker build -t <your_image_name> .
