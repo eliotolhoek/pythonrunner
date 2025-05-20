@@ -16,3 +16,5 @@ python <script> <parameters>
 ```
 
 If any python dependencies are missing, you can add them in requirements.txt and rebuild the image.
+
+The python version can be configured in the Dockerfile
